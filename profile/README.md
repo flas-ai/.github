@@ -13,5 +13,5 @@ FLAS is the Flow-based Activation Steering which learns a general, concept-condi
 
 *   **Code Repository:** [FLAS](https://github.com/flas-ai/FLAS)
 *   **Project Homepage:** [https://flas-ai.github.io](https://flas-ai.github.io)
-*   **Paper:** Beyond Steering Vector: Flow-based Activation Steering for Inference-Time Intervention. [Read more on arXiv](https://arxiv.org/abs/2605.05892).
+*   **Paper:** [Read more on arXiv](https://arxiv.org/abs/2605.05892).
 *   **Demo:** Try FLAS on [Hugging Face Space](https://huggingface.co/spaces/Lunamos/flas-demo)
